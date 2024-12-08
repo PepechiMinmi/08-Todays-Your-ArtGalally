@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react';
 import Head from "./components/Header";//ヘッダー
-import Main from "./components/Main";//メインコンテンツ
 import Foot from "./components/Footer";//フッター
 
 export default function ArtGallery() {
